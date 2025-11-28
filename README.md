@@ -6,7 +6,7 @@
     width="350"
   />
 
-  <br/><br/>
+  <br/>
 
   <!-- Title -->
   <div style="font-size: 28px; font-weight: bold;">
@@ -33,9 +33,6 @@
     />
   </div>
 </div>
-
-<br/><br/>
-
 <!-- TECH STACK TABLE -->
 <div align="center">
 <table border="0" style="border-collapse: collapse;">

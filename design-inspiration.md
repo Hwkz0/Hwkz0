@@ -1,0 +1,1 @@
+The idea for a terminal-inspired profile came from the GitHub profile of https://github.com/Andrew6rant/Andrew6rant . 

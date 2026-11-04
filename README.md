@@ -1,85 +1,36 @@
-<div align="center">
-
-  <!-- Centered GIF -->
+<p align="center">
   <img
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJ2bWx1bm5xbW1pNmQ5YmRmZjd3MTQwZmgybjRjOGJkMml1MHMxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uhXxGTTyBfKk7iBU40/giphy.gif"
-    width="350"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2608,50:354F0C,100:578204&height=180&section=header&text=Eduard@Hwkz0&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Software%20Developer%20%7C%20Robotics%20Engineer&descAlignY=60&descSize=26"
+    width="100%"
+    alt="Profile header"
   />
+</p>
 
-  <br/>
-
-  <!-- Title -->
-  <div style="font-size: 28px; font-weight: bold;">
-    Full Stack Developer • Robotics Engineer • Security Enthusiast
-  </div>
-
-  <br/>
-
-  <!-- CONTACTS LEFT + ONE GITHUB STATS RIGHT -->
-  <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px;">
-    <!-- LEFT SIDE: CONTACTS -->
-    <div style="display: flex; flex-direction: column; gap: 12px;">
-      <a href="https://www.linkedin.com/in/eduard-drimus/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-      </a>
-      <a href="https://your-portfolio.com">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-      </a>
-    </div>
-    <!-- RIGHT SIDE: ONE GITHUB STATS BADGE -->
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Hwkz0&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"
-      width="420"
-    />
-  </div>
-</div>
-<!-- TECH STACK TABLE -->
 <div align="center">
-<table border="0" style="border-collapse: collapse;">
 
-<tr>
-<td align="center" width="200" style="border: none;"><strong>Backend</strong></td>
-<td align="center" width="200" style="border: none;"><strong>Frontend</strong></td>
-<td align="center" width="200" style="border: none;"><strong>DevOps</strong></td>
-<td align="center" width="200" style="border: none;"><strong>Robotics & AI</strong></td>
-</tr>
+  <a href="./profile.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile.svg" />
+      <img
+        src="./profile-light.svg"
+        width="100%"
+        alt="Terminal-style profile information"
+      />
+    </picture>
+  </a>
 
-<tr>
+  <br />
 
-<td align="center" style="border: none;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
-</td>
+  <sub>
+    <a href="./profile.svg">Click here if the SVG doesn't load.</a>
+  </sub>
 
-<td align="center" style="border: none;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50"/>
-</td>
-
-<td align="center" style="border: none;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50"/>
-</td>
-
-<td align="center" style="border: none;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/>
-</td>
-
-</tr>
-</table>
 </div>
-
-<br/><br/>
 
 <p align="center">
-  <sub><b>"The only true death is to never live."</b></sub>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:578204,50:354F0C,100:1B2608&height=120&section=footer"
+    width="100%"
+    alt="Profile footer"
+  />
 </p>

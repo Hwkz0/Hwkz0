@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="712" viewBox="0 0 985 712" role="img" aria-labelledby="title desc">
+  <title id="title">Eduard's developer profile</title>
+  <desc id="desc">A svg profile card for Eduard@Hwkz0 github profile.</desc>
+  <style>
+    text {
+      font-family: Georgia, Garamond, serif;
+      font-size: 16px;
+      white-space: pre;
+    }
+    .label { fill: #8fb64a; }
+    .value { fill: #d7e8b0; }
+    .muted { fill: #71805c; }
+    .text { fill: #d0d7c6; }
+    .rule { stroke: #71805c; stroke-width: 1; }
+    .rule-label { fill: #161b22; }
+  </style>
+
+  <rect width="985" height="712" rx="15" fill="#161b22"/>
+  <rect x="1" y="1" width="983" height="710" rx="14" fill="none" stroke="#578204" stroke-opacity=".55"/>
+
+  <line x1="28" y1="28" x2="957" y2="28" class="rule"/>
+  <rect x="398" y="16" width="189" height="24" rx="4" class="rule-label"/>
+  <text x="492.5" y="34" text-anchor="middle" class="muted">[ hwkz0@github ]</text>
+
+  <line x1="28" y1="62" x2="34" y2="62" class="rule"/><line x1="244" y1="62" x2="957" y2="62" class="rule"/>
+  <rect x="44" y="50" width="190" height="24" rx="4" class="rule-label"/>
+  <text x="55" y="66" class="muted">[ Programming-info ]</text>
+  <text x="28" y="104" class="text">&#x2502;</text><text x="55" y="104" class="label">Programming.Skills</text><text x="200" y="104" textLength="210" lengthAdjust="spacing" class="muted">............................</text><text x="420" y="104" class="value">Backend, Frontend, Design, DevOps</text><text x="955" y="104" class="text">&#x2502;</text>
+  <text x="28" y="132" class="text">&#x2502;</text><text x="55" y="132" class="label">Programming.Languages</text><text x="235" y="132" textLength="175" lengthAdjust="spacing" class="muted">........................</text><text x="420" y="132" class="value">Python, PHP, JavaScript, C/C++, Java</text><text x="955" y="132" class="text">&#x2502;</text>
+  <text x="28" y="160" class="text">&#x2502;</text><text x="55" y="160" class="label">Programming.Interests</text><text x="230" y="160" textLength="180" lengthAdjust="spacing" class="muted">.........................</text><text x="420" y="160" class="value">Robotics, Artificial Intelligence, Quality</text><text x="955" y="160" class="text">&#x2502;</text>
+  <text x="28" y="188" class="text">&#x2502;</text><text x="55" y="188" class="label">Programming.Hobbies</text><text x="220" y="188" textLength="190" lengthAdjust="spacing" class="muted">...........................</text><text x="420" y="188" class="value">Cybersecurity, DevOps, Self-Hosting</text><text x="955" y="188" class="text">&#x2502;</text>
+
+  <line x1="28" y1="230" x2="34" y2="230" class="rule"/><line x1="218" y1="230" x2="957" y2="230" class="rule"/>
+  <rect x="44" y="218" width="164" height="24" rx="4" class="rule-label"/>
+  <text x="55" y="234" class="muted">[ Education-info ]</text>
+  <text x="28" y="272" class="text">&#x2502;</text><text x="55" y="272" class="label">Education.University</text><text x="220" y="272" textLength="190" lengthAdjust="spacing" class="muted">..........................</text><text x="420" y="272" class="value">Technical University of Cluj-Napoca</text><text x="955" y="272" class="text">&#x2502;</text>
+  <text x="28" y="300" class="text">&#x2502;</text><text x="55" y="300" class="label">Education.Degree</text><text x="190" y="300" textLength="220" lengthAdjust="spacing" class="muted">............................</text><text x="420" y="300" class="value">Robotics and Mechatronics Engineering</text><text x="955" y="300" class="text">&#x2502;</text>
+  <text x="28" y="328" class="text">&#x2502;</text><text x="55" y="328" class="label">Education.Specialization</text><text x="255" y="328" textLength="155" lengthAdjust="spacing" class="muted">......................</text><text x="420" y="328" class="value">Artificial Intelligence</text><text x="955" y="328" class="text">&#x2502;</text>
+
+  <line x1="28" y1="370" x2="34" y2="370" class="rule"/><line x1="166" y1="370" x2="957" y2="370" class="rule"/>
+  <rect x="44" y="358" width="112" height="24" rx="4" class="rule-label"/>
+  <text x="55" y="374" class="muted">[ Real-info ]</text>
+  <text x="28" y="412" class="text">&#x2502;</text><text x="55" y="412" class="label">Real.Languages</text><text x="175" y="412" textLength="235" lengthAdjust="spacing" class="muted">..............................</text><text x="420" y="412" class="value">English, Romanian, Italian, Ukrainian</text><text x="955" y="412" class="text">&#x2502;</text>
+  <text x="28" y="440" class="text">&#x2502;</text><text x="55" y="440" class="label">Real.Hobbies</text><text x="160" y="440" textLength="250" lengthAdjust="spacing" class="muted">................................</text><text x="420" y="440" class="value">Music, Chess, Reading, Philosophy</text><text x="955" y="440" class="text">&#x2502;</text>
+  <text x="28" y="468" class="text">&#x2502;</text><text x="55" y="468" class="label">Real.Pets</text><text x="125" y="468" textLength="285" lengthAdjust="spacing" class="muted">....................................</text><text x="420" y="468" class="value">Dog lover</text><text x="955" y="468" class="text">&#x2502;</text>
+
+  <line x1="28" y1="510" x2="34" y2="510" class="rule"/><line x1="200" y1="510" x2="957" y2="510" class="rule"/>
+  <rect x="44" y="498" width="146" height="24" rx="4" class="rule-label"/>
+  <text x="55" y="514" class="muted">[ Contact-info ]</text>
+  <text x="28" y="552" class="text">&#x2502;</text><text x="55" y="552" class="label">Contact.Email</text><text x="175" y="552" textLength="235" lengthAdjust="spacing" class="muted">..............................</text><text x="420" y="552" class="value">eduardddrimus@gmail.com</text><text x="955" y="552" class="text">&#x2502;</text>
+  <text x="28" y="580" class="text">&#x2502;</text><text x="55" y="580" class="label">Contact.LinkedIn</text><text x="205" y="580" textLength="205" lengthAdjust="spacing" class="muted">..........................</text><text x="420" y="580" class="value">linkedin.com/in/eduard-drimus</text><text x="955" y="580" class="text">&#x2502;</text>
+
+  <line x1="28" y1="622" x2="388" y2="622" class="rule"/><line x1="597" y1="622" x2="957" y2="622" class="rule"/>
+  <rect x="416" y="610" width="153" height="24" rx="4" class="rule-label"/>
+  <text x="492.5" y="626" text-anchor="middle" class="muted">[ Favorite-quote ]</text>
+  <text x="492.5" y="674" text-anchor="middle" class="value">"The only true death is to never live."</text>
+</svg>

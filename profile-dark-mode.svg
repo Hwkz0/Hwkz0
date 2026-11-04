@@ -1,6 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="712" viewBox="0 0 985 712" role="img" aria-labelledby="title desc">
   <title id="title">Eduard's developer profile</title>
   <desc id="desc">A svg profile card for Eduard@Hwkz0 github profile.</desc>
+  <!-- 
+      (\(\ 
+      ( -.-)
+    o_(")(")   Happy Easter!
+   This year, the Easter Bunny is encouraging you to think of all the things that can be done with this svg. 
+   But for now, it's just a static image.
+   -->
   <style>
     text {
       font-family: Georgia, Garamond, serif;
